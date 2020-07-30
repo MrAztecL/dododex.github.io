@@ -389,6 +389,12 @@
 "t":"Cheats",
 "d":"Prevents your Health, Stamina, Oxygen, Food, and Water from decreasing."
 },{
+"id":"InfiniteWeight",
+"c":"InfiniteWeight",
+"e":"InfiniteWeighr",
+"t":"Cheats",
+"d":"Ignores players weight limit and allows to carry infinite ammount of items. While riding a dino, effect gets transferred."
+},{
 "id":"KickPlayer",
 "c":"KickPlayer <SteamID>",
 "e":"KickPlayer 12390",
